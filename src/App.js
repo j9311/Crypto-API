@@ -30,7 +30,7 @@ function App() {
   return (
     <div className='coin-app'>
       <div className='coin-search'>
-        <h1 className='coin-text'>CRYPTO UPDATE</h1>
+        <h1 className='coin-text'>CRYPTO API TEST</h1>
         <form>
           <input
             className='coin-input'
